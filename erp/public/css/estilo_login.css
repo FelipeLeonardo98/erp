@@ -1,0 +1,49 @@
+body{
+    /* background-image: url('{{ asset(img/wpp_1.jpg) }}'); */
+    text-align: center;
+    padding-top: 15%;
+}
+
+.p1{
+    font-weight: bold;
+    text-shadow: 1px 1px 1px yellow;
+    font-size: 25px;
+    text-transform: uppercase;
+   
+}
+.input_login{
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2); 
+    height: 35px;
+    width: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+
+.form_login{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 100px;
+}
+
+.btn_login{
+  margin-top: 20px;
+  background-color: azure;
+  color: blue;
+  text-align: center;
+  width: 150px;
+  height: 45px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2); 
+}
+
+.btn_login:hover {
+    background-color: rgb(47, 250, 7);
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}

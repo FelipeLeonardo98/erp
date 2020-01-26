@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    padding-top: 10%;
+
+}
+
+table{
+    /* Deixar item no centro da página */
+    margin: auto;
+}
+
+.titulo{
+    font-size: 40px;
+    color: yellow;
+    font-weight: 200;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 :hover{
+    text-shadow: 10px;
+    font-size: 40px;
+    color: yellow;
+}
